@@ -11,6 +11,6 @@ class GatoSeeder extends Seeder
      */
     public function run()
     {
-        factory(App\Gato::class, 10)->create();
+        factory(App\Gato::class, 20)->create();
     }
 }
