@@ -14,6 +14,10 @@
 			<a class="btn btn-primary" href="{{route('gatos.create')}}" role="button">AGREGAR</a>
 		</div>
 		<br>
+
+		<h1 class="text-center">Lista de gatos</h1>
+
+		<br>
 		<table class="table">
 		  <thead>
 		    <tr>
